@@ -1,23 +1,23 @@
-# UnionBos Project
+# UnionBot Project
 
 ## Cara Install & Run
 
 
-1. Clone Repository
+# 1. Clone Repository
    
   git clone https://github.com/devanzganz/unionbot.git
 
   cd unionbot
 
-2. Buat file mnemonic :
+# 2. Buat file mnemonic :
    
   nano mnemonic.txt
 
-3. install package:
+# 3. install package:
    
   npm install
 
-4. pilih salah satu sesuai kebutuhan:
+# 4. pilih salah satu sesuai kebutuhan:
 
   node babylon.js
 
