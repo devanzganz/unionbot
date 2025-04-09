@@ -1,8 +1,9 @@
 # UnionBos Project
 
 ## Cara Install & Run
-1. Clone repo:
-```bash
+
+
+1. Clone Repository
 git clone https://github.com/devanzganz/unionbot.git
 cd unionbos
 
