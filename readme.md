@@ -17,7 +17,7 @@
    
   npm install
 
-# 4. pilih salah satu sesuai kebutuhan:
+# 4. pilih module yang ingin dijalankan:
 
   node babylon.js
 
