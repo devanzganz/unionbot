@@ -16,13 +16,21 @@ npm install
 4. pilih salah satu sesuai kebutuhan:
 
 node babylon.js
+
 node stars.js
+
 node stride.js
 
 unionbot/
+
 ├── babylon.js       # Modul Babylon.js
+
 ├── stars.js         # Modul Stars.js
+
 ├── stride.js        # Modul Stride.js
-├── mnemonic.txt     # File mnemonic (opsional)
+
+├── mnemonic.txt     # File mnemonic 
+
 ├── package.json     # Konfigurasi dependensi
+
 └── README.md        # Dokumentasi ini
