@@ -13,7 +13,7 @@ nano mnemonic.txt
 3. install package:
 npm install
 
-4. pilih salah satu:
+4. pilih salah satu sesuai kebutuhan:
 
 node babylon.js
 node stars.js
