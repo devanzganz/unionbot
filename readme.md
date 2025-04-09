@@ -4,33 +4,37 @@
 
 
 1. Clone Repository
-git clone https://github.com/devanzganz/unionbot.git
-cd unionbos
+   
+  git clone https://github.com/devanzganz/unionbot.git
+
+  cd unionbot
 
 2. Buat file mnemonic :
-nano mnemonic.txt
+   
+  nano mnemonic.txt
 
 3. install package:
-npm install
+   
+  npm install
 
 4. pilih salah satu sesuai kebutuhan:
 
-node babylon.js
+  node babylon.js
 
-node stars.js
+  node stars.js
 
-node stride.js
+  node stride.js
 
 unionbot/
 
-├── babylon.js       # Modul Babylon.js
+  ├── babylon.js       # Modul Babylon.js
 
-├── stars.js         # Modul Stars.js
+  ├── stars.js         # Modul Stars.js
 
-├── stride.js        # Modul Stride.js
+  ├── stride.js        # Modul Stride.js
 
-├── mnemonic.txt     # File mnemonic 
+  ├── mnemonic.txt     # File mnemonic 
 
-├── package.json     # Konfigurasi dependensi
+  ├── package.json     # Konfigurasi dependensi
 
-└── README.md        # Dokumentasi ini
+  └── README.md        # Dokumentasi ini
